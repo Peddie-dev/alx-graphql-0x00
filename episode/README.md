@@ -38,4 +38,4 @@ query {
 }
 ```
 
-Each file below corresponds to a specific episode (IDs 1–4).
+Each file below corresponds to a specific episode (Pages 1–4).

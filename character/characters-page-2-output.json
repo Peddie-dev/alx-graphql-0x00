@@ -1,0 +1,38 @@
+{
+  "data": {
+    "characters": {
+      "results": [
+        {
+          "id": "6",
+          "name": "Rick Sanchez",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg"
+        },
+        {
+          "id": "7",
+          "name": "Morty Smith",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/2.jpeg"
+        },
+        {
+          "id": "8",
+          "name": "Summer Smith",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/3.jpeg"
+        },
+        {
+          "id": "9",
+          "name": "Beth Smith",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/4.jpeg"
+        },
+        {
+          "id": "10",
+          "name": "Jerry Smith",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/5.jpeg"
+        }
+      ]
+    }
+  }
+}
